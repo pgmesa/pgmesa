@@ -4,6 +4,7 @@ Thanks for dropping by, hope you find some of my work interesting
 - 🩺 I'm interested in software, Data Science and Machine Learning applied to the medical field
 - 👨‍💻 Python, Java, shell, Matlab, MongoDB, SQL ...
 - 🌱 I'm 21 years old
+- 🔭 I have some github organizations to split and organize my code, so check them out if you think the topic might interest you
 - 📫 You can reach me at: pgmesa.sm@gmail.com
 <!--
 **pgmesa/pgmesa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
