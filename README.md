@@ -2,8 +2,7 @@
 Thanks for dropping by, hope you find some of my work interesting
 - ⚡ I'm a Spanish Biomedical Engineer graduated from the Polytechnic University of Madrid (ETSIT)
 - 🩺 I'm interested in software, Data Science and Machine Learning applied to the medical field
-- 👨‍💻 Python, Java, Shell scripting (Linux & Windows), Matlab, MongoDB, SQL ...
-- 🌱 I'm 22 years old
+- 👨‍💻 Python, Java, Android, Shell scripting (Linux & Windows), Matlab, MongoDB, SQL ...
 - 🔭 I have some github organizations to split and organize my contributions, so check them out if you think the topic might interest you
 - 📫 You can reach me at: pgmesa.sm@gmail.com
 <!--
