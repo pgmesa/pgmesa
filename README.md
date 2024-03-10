@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 Thanks for dropping by, hope you find some of my work interesting
-- 📚 I'm a Biomedical Engineer graduated from the Polytechnic University of Madrid (ETSIT)
+- 📚 I'm a Biomedical Engineer graduated from the Polytechnic University of Madrid (ETSIT) with an MSc in Artificial Intelligence.
 - ⚡ I'm interested in Software, Data Science and Machine Learning, especially when applied to the medical field
  
 ### Programming skill set
