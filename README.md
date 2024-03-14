@@ -2,7 +2,7 @@
 
 Thanks for dropping by, hope you find some of my work interesting
 - 📚 I'm a Biomedical Engineer graduated from the Polytechnic University of Madrid (ETSIT) with an MSc in Artificial Intelligence.
-- ⚡ I'm interested in Software, Data Science and Machine Learning, especially when applied to the medical field
+- ⚡ I'm passionate about everything related to Software, Computer Science and Machine Learning, especially when it comes to deep neural networks.
  
 ### Programming skill set
 | Main Skills  🚀 |   Main Machine Learning Tools  🧠 |  Other Skills 🛠️ |  OS  💻 |
