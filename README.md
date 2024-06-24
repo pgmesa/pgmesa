@@ -13,3 +13,4 @@ Thanks for dropping by, hope you find some of my work interesting
 [![linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pgmesa/)
 [![github](https://img.shields.io/badge/Github-black?style=flat&logo=github&logoColor=white)](https://github.com/pgmesa)
 [![pypi](https://img.shields.io/badge/PyPI-pgmesa-3775A9?style=flat&logo=pypi&logoColor=white)](https://pypi.org/user/pgmesa/)
+[![medium](https://img.shields.io/badge/Medium-black?style=flat&logo=medium&logoColor=white)](https://pgmesa.medium.com/)
